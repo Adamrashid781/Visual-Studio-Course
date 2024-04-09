@@ -1,0 +1,13 @@
+/Users/adam/Projects/helloWorld/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.deps.json
+/Users/adam/Projects/helloWorld/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.json
+/Users/adam/Projects/helloWorld/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.runtimeconfig.dev.json
+/Users/adam/Projects/helloWorld/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.dll
+/Users/adam/Projects/helloWorld/helloWorld/bin/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csproj.AssemblyReference.cache
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfoInputs.cache
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.AssemblyInfo.cs
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.csproj.CoreCompileInputs.cache
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.dll
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.pdb
+/Users/adam/Projects/helloWorld/helloWorld/obj/Debug/netcoreapp3.1/helloWorld.genruntimeconfig.cache

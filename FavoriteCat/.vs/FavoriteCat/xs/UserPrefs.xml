@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{014E2BF0-FCAE-426B-AA27-AD4348F496A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.FavoriteCat PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FavoriteCat/Pages/Index.cshtml">
+    <Files>
+      <File FileName="FavoriteCat/Pages/Index.cshtml" Line="20" Column="31" IsPinned="True" />
+      <File FileName="FavoriteCat/Pages/EmptyHtmlFile.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FavoriteCat" expanded="True">
+            <Node name="FavoriteCat" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

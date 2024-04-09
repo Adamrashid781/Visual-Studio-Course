@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{99EE3D29-7003-46F7-B057-C574120FDCF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoCrafts.Website/Program.cs">
+    <Files>
+      <File FileName="ContosoCrafts.Website/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoCrafts.Website" expanded="True">
+            <Node name="ContosoCrafts.Website" expanded="True">
+              <Node name="Properties" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContosoCrafts.Website FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
