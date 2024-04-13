@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.FavoriteCat PreferredExecutionTarget="/Applications/Opera GX.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FavoriteCat/Pages/Index.cshtml">
     <Files>
-      <File FileName="FavoriteCat/Pages/Index.cshtml" Line="20" Column="31" IsPinned="True" />
-      <File FileName="FavoriteCat/Pages/EmptyHtmlFile.html" />
+      <File FileName="FavoriteCat/Pages/Index.cshtml" Line="20" Column="36" IsPinned="True" />
+      <File FileName="FavoriteCat/Pages/EmptyHtmlFile.html" Line="8" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
